@@ -1,6 +1,7 @@
-body{
+*{
     font-family: Montserrat;
     background-color: #23a6f0
+
 
 
 }
@@ -20,6 +21,22 @@ body{
     align-items: center;
     font-family: monteserrat;
     font-size: small;
+    list-style: none;
+    display: flex;
+    margin: 30px;
+
+}
+.BrandName ul li a {
+    color: white;
+    text-decoration: none;
+    margin: 30px;
+    
+    
+
+    
+
+
+
 }
 .BrandName p { 
     text-align: center;
