@@ -1,19 +1,16 @@
 *{
     font-family: Montserrat;
-    background-color: #23a6f0
-
-
-
-}
-.container{
-    padding: 0em;
-    margin: 0em;
 
 
 }
-.BrandName {
+.BrandName{
     font-family: monteserrat;
-
+    background-image: url("images/hero-cover.3.png");
+    background-color: #252B42;
+    background-size: 200%;
+    background-repeat:no-repeat;
+    padding: 30em;
+    
 
 }
 .BrandName ul {
@@ -24,13 +21,14 @@
     list-style: none;
     display: flex;
     margin: 30px;
+    
 
 }
 .BrandName ul li a {
     color: white;
     text-decoration: none;
     margin: 30px;
-    
+
     
 
     
