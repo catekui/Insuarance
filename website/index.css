@@ -3,7 +3,7 @@
 
 
 }
-.BrandName{
+.Container{
     font-family: monteserrat;
     background-image: url("images/hero-cover.3.png");
     background-color: #252B42;
@@ -36,28 +36,6 @@ a:hover{
     background-color: steelblue;
 
 }
-.BrandName p { 
-    margin:0em;
-    padding: 0em;
-    font-size: x-large;
-    color: white;
-    position: absolute;
-    top: 50%;
-    bottom: 50%;
-    transform: translateX(200%) translateY(70%);
-
-
-}
-.BrandName s {
+.Firstp {
     text-align: center;
-    margin:0em;
-    padding: 0em;
-    font-size: x-large;
-    color: white;
-    position: absolute;
-    top: 50%;
-    bottom: 50%;
-    transform: translateX(200%) translateY(70%);
-
-
 }
