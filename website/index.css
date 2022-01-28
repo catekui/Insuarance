@@ -34,8 +34,20 @@ a:hover{
 }
 .BrandName button {
     background-color: steelblue;
+    width: fit-content;
+
 
 }
-.Firstp {
+.Firstp ul {
     text-align: center;
+    list-style: none;
+    color: white;
+    flex-direction: row;
+    display: flex;
 }
+.Firstp ul li a {
+    text-decoration: none;
+    color: white;
+
+}
+
