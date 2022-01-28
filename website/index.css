@@ -1,0 +1,48 @@
+body{
+    font-family: Montserrat;
+    background-color: #23a6f0
+
+
+}
+.container{
+    padding: 0em;
+    margin: 0em;
+
+
+}
+.BrandName {
+    font-family: monteserrat;
+
+
+}
+.BrandName ul {
+    flex-direction: row;
+    align-items: center;
+    font-family: monteserrat;
+    font-size: small;
+}
+.BrandName p { 
+    text-align: center;
+    margin:0em;
+    padding: 0em;
+    font-size: x-large;
+    color: white;
+    position: absolute;
+    top: 50%;
+    bottom: 50%;
+    transform: translateX(200%) translateY(70%);
+
+}
+.BrandName s {
+    text-align: center;
+    margin:0em;
+    padding: 0em;
+    font-size: x-large;
+    color: white;
+    position: absolute;
+    top: 50%;
+    bottom: 50%;
+    transform: translateX(200%) translateY(70%);
+
+
+}
