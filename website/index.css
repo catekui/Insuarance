@@ -7,9 +7,9 @@
     font-family: monteserrat;
     background-image: url("images/hero-cover.3.png");
     background-color: #252B42;
-    background-size: 200%;
     background-repeat:no-repeat;
     padding: 30em;
+    width:fit-content
     
 
 }
@@ -28,16 +28,15 @@
     color: white;
     text-decoration: none;
     margin: 30px;
-
-    
-
-    
-
-
+}
+a:hover{
+    background-color:greenyellow;
+}
+.BrandName button {
+    background-color: steelblue;
 
 }
 .BrandName p { 
-    text-align: center;
     margin:0em;
     padding: 0em;
     font-size: x-large;
@@ -46,6 +45,7 @@
     top: 50%;
     bottom: 50%;
     transform: translateX(200%) translateY(70%);
+
 
 }
 .BrandName s {
