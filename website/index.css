@@ -140,3 +140,23 @@ a:hover{
     text-align: center;
     padding-top: 150px;
 }
+.packages {
+    display: flex;
+    flex-direction: row;
+    list-style:circle;
+    justify-content: center;
+    text-align: center;
+}
+.standard {
+    border: solid skyblue;
+
+}
+.standard button {
+    background-color: steelblue;
+}
+.packages p {
+    text-align: center;
+}
+.packages h3 {
+    text-align: center;
+}
