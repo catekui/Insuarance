@@ -119,3 +119,15 @@ a:hover{
 
 
 }
+.logos {
+    display: flex;
+    text-align: center;
+    padding-top: 100px;
+    margin:20px;
+    justify-content: center;
+}
+.logopics {
+    flex-direction: column;
+    margin: 20px;
+    background: silver;
+}
