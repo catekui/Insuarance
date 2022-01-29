@@ -163,3 +163,18 @@ a:hover{
 .packages h3 {
     text-align: center;
 }
+.map {
+    display: flex;
+    flex-direction: row;
+    margin: 100px;
+    border: solid blue;
+    padding: 70px;
+    
+}
+.branches {
+    text-align: left;
+    margin-right: 50px;
+}
+.branches img {
+    padding: -10px;
+}
