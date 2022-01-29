@@ -61,4 +61,12 @@ a:hover{
     border-radius: 10px;
     background-color: steelblue;
 }
+.values {
+    display: flex;
+
+}
+.items{
+    flex-direction: column;
+    margin: solid;
+}
 
