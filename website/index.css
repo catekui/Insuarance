@@ -58,6 +58,7 @@ a:hover{
 }
 .Firstp button{
     margin: 20px;
-    border-radius: 20%;
+    border-radius: 10px;
+    background-color: steelblue;
 }
 
