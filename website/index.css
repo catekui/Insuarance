@@ -1,0 +1,230 @@
+*{
+    font-family: Montserrat;
+
+
+}
+.Container{
+    font-family: monteserrat;
+    background-image: url("images/hero-cover.3.png");
+    background-color: #252B42;
+    background-repeat:no-repeat;
+    margin-bottom: 10px;
+    padding: 10px;
+    height: 700px;
+
+    
+
+}
+.BrandName ul {
+    flex-direction: row;
+    align-items: center;
+    font-family: monteserrat;
+    font-size: small;
+    list-style: none;
+    display: flex;
+    margin: 30px;
+    text-align: right;
+    justify-content: right;
+
+}
+.BrandName ul li a {
+    color: white;
+    text-decoration: none;
+    margin: 30px;
+}
+
+a:hover{
+    background-color:greenyellow;
+}
+.BrandName button {
+    background-color: steelblue;
+    width: fit-content;
+
+
+}
+.Firstp{
+    text-align: center;
+}
+.Firstp ul {
+    text-align: center;
+    list-style: none;
+    color: white;
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+
+}
+    
+.Firstp ul li a {
+    text-decoration: none;
+    color: white;
+
+}
+.Firstp button{
+    margin: 20px;
+    border-radius: 10px;
+    background-color: steelblue;
+}
+.values {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.items{
+    flex-direction: column;
+    margin: 2px;
+    border: solid;
+    background-color: white;
+    text-align: left;
+    padding:2%;
+
+}
+.PSS {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+}
+.mss {
+    flex-direction: column;
+    margin: 2px;
+    background-color: white;
+    text-align: center;
+    padding:2%;
+
+}
+.Industry {
+    background-color: silver;
+    
+}
+.People {
+    text-align: center;
+
+}
+.Picturep {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 30px;
+
+}
+.user {
+    border: solid white;
+    margin:20px;
+    flex-direction: column;
+    text-align: center;
+    background-color: white;
+    padding:10px;
+
+
+}
+.logos {
+    display: flex;
+    text-align: center;
+    padding-top: 100px;
+    margin:20px;
+    justify-content: center;
+}
+.logopics {
+    flex-direction: column;
+    margin: 20px;
+    background: silver;
+}
+.subscribe {
+    text-align: center;
+    background-color: rgb#2596BE
+
+}
+.pricing {
+    text-align: center;
+    padding-top: 80px;
+    
+}
+.packages {
+    display: flex;
+    flex-direction: row;
+    list-style:circle;
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+.standard {
+    border: solid skyblue;
+
+}
+.standard button {
+    background-color: steelblue;
+}
+.packages p {
+    text-align: center;
+}
+.packages h3 {
+    text-align: center;
+}
+.map {
+    display: flex;
+    flex-direction: row;
+    margin: 100px;
+    border: solid blue;
+    padding: 70px;
+    background-color: black;
+    
+}
+.branches {
+    text-align: left;
+    margin-right: 50px;
+}
+.branches img {
+    padding: -10px;
+}
+.book {
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+    background-image: url(images/contact-cover.2.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    height: 700px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: -150px;
+    background-color: cadetblue;
+    border: solid colorless;
+
+}
+.book form{
+margin-left: 350px;
+}
+.Contact {
+    display: flex;
+    flex-direction: row;
+    background-color: cadetblue;
+    margin-bottom: 150px;
+    margin: 100px; 
+}
+.Agency {
+    flex-direction: row;
+    padding-top: 100px;
+    margin-inline: 160px;
+
+}
+.companyinfo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+.clfrg {
+    margin: 50px;
+    margin-top: -60px;
+
+}
+.clfrg ul {
+    list-style: none;
+
+}
+.clfrg ul a{
+    color:black;
+}
