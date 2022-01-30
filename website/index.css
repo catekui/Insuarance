@@ -208,5 +208,23 @@ margin-left: 350px;
     flex-direction: row;
     padding-top: 100px;
     margin-inline: 160px;
-    
+
+}
+.companyinfo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+.clfrg {
+    margin: 50px;
+    margin-top: -60px;
+
+}
+.clfrg ul {
+    list-style: none;
+
+}
+.clfrg ul a{
+    color:black;
 }
