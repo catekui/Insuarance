@@ -196,5 +196,17 @@ a:hover{
 }
 .book form{
 margin-left: 350px;
-
+}
+.Contact {
+    display: flex;
+    flex-direction: row;
+    background-color: cadetblue;
+    margin-bottom: 150px;
+    margin: 100px; 
+}
+.Agency {
+    flex-direction: row;
+    padding-top: 100px;
+    margin-inline: 160px;
+    
 }
