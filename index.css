@@ -4,15 +4,14 @@
 
 }
 .Container{
-    font-family: monteserrat;
+    font-family: 'monteserrat';
     background-image: url("images/hero-cover.3.png");
-    background-color: #252B42;
+    background-color: whitesmoke;
     background-repeat:no-repeat;
     margin-bottom: 10px;
     padding: 10px;
-    height: 700px;
-
-    
+    height: 500px;  
+    background-size: cover;
 
 }
 .BrandName ul {
@@ -25,12 +24,14 @@
     margin: 30px;
     text-align: right;
     justify-content: right;
+    
 
 }
 .BrandName ul li a {
     color: white;
     text-decoration: none;
     margin: 30px;
+    in-line: block
 }
 
 a:hover{
@@ -167,9 +168,11 @@ a:hover{
     display: flex;
     flex-direction: row;
     margin: 100px;
-    border: solid blue;
+    border: 0;
     padding: 70px;
-    background: blue;
+    background-color: #252B42;
+    height: 350px;
+    
     
 }
 .branches {
