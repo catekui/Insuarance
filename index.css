@@ -24,6 +24,7 @@
     margin: 30px;
     text-align: right;
     justify-content: right;
+    display: flex;
     
 
 }
@@ -79,6 +80,16 @@ a:hover{
     background-color: white;
     text-align: left;
     padding:2%;
+
+}
+.items1 {
+    flex-direction: column;
+    margin: 2px;
+    border: solid;
+    background-color: white;
+    text-align: left;
+    padding:2%;
+    background-color: blue;
 
 }
 .PSS {
