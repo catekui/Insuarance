@@ -1,4 +1,4 @@
-# Insuarance webpage
+# Insuarance
 
 ##### By Catherine Wangui
 ### It is a description of my webpage.
@@ -21,7 +21,7 @@
 * An access to the internet.
 ### Installation Process
 [Go back to the top]
-(#portfolio)
+(#Insuarance)
 
 ## Technology Used
 * HTML which was used to build the structure of the page.
@@ -32,7 +32,6 @@
 * W3schools, HTML and CSS
 
 ## Licence
-
 
 ## Authors Info
 Linkedin - [Catherine Wangui](https://www.linkedin.com/in/catherine-wangui-721789176/)
