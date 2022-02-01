@@ -1,4 +1,4 @@
-# Insuarance webpage
+# Insuarance
 
 ##### By Catherine Wangui
 ### It is a description of my webpage.
@@ -22,7 +22,7 @@
 * An access to the internet.
 ### Installation Process
 [Go back to the top]
-(#portfolio)
+(#Insuarance)
 
 ## Technology Used
 * HTML which was used to build the structure of the page.
@@ -52,7 +52,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
 
 ## Authors Info
 Linkedin - [Catherine Wangui](https://www.linkedin.com/in/catherine-wangui-721789176/)
