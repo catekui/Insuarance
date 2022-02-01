@@ -200,7 +200,8 @@ a:hover{
     background-image: url(images/contact-cover.2.png);
     background-repeat: no-repeat;
     background-position: left;
-    height: 700px;
+    /* height: 700px; */
+    height: 100vh;
     margin-left: 150px;
     margin-right: 150px;
     margin-top: -150px;
@@ -210,6 +211,9 @@ a:hover{
 }
 .book form{
 margin-left: 350px;
+}
+.book>form >button{
+    background-color:steelblue;
 }
 .Contact {
     display: flex;
